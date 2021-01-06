@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Umbrellio\Postgres\Schema\Definitions;
+namespace Umbrellio\Postgres\Schema\Definitions\Indexes;
 
 use Illuminate\Support\Fluent;
 
